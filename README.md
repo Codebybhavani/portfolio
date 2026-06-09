@@ -35,13 +35,7 @@ cd Portfolio
 
 Open `index.html` in your browser or use Live Server.
 
-## Screenshots
 
-```markdown
-![Home](images/home.png)
-![Projects](images/projects.png)
-![Contact](images/contact.png)
-```
 
 ## Author
 
